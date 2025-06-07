@@ -2,6 +2,7 @@ Librarys:
 influxdb-client    1.48.0
 pymodbus           3.5.0
 solaredge-modbus   0.8.0
+MAC 88:a9:a7:13:01:80
 
 Influx_atr:
 bucket = "data"
